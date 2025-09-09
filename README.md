@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Projetos em destaque
-- [Todo List](https://github.com/liviasza/todo-list) → Sistema de gerenciamento de tarefas em Python  
+- [Meu Primeiro Projeto](https://github.com/liviasza/Meu-Primeiro-Projeto) → Sistema de gerenciamento de tarefas em Python  
 - Mais projetos em breve 🚧  
 
 ---
