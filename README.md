@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou Livia Carvalho
 
-<!--
-**liviasza/liviasza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Apaixonado por programação, tecnologia e resolução de problemas  
+🚀 Sempre em busca de novos desafios para crescer como desenvolvedor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que utilizo
+- **Linguagens:** Python, Java, JavaScript, SQL  
+- **Frameworks:** Spring Boot, Flask, React  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git, GitHub, Docker  
+
+---
+
+## 📂 Projetos em destaque
+- [Todo List](https://github.com/liviasza/todo-list) → Sistema de gerenciamento de tarefas em Python  
+- Mais projetos em breve 🚧  
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIVIASZA&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIVIASZA&layout=compact&theme=default)
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/liviasza  
+- Email: **livinha_carvalho_@hotmail.com**
